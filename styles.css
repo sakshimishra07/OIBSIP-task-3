@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f99b9b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.input-container {
+    margin-top: 20px;
+}
+
+input {
+    width: 150px;
+    padding: 5px;
+}
+
+select {
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+.result {
+    margin-top: 20px;
+}
